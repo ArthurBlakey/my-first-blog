@@ -25,7 +25,7 @@ SECRET_KEY = '*wpfrp4!^%cxg$m^cre-t^_vlws%3p&e3g5^x*028*li$s%(id'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'GlenBXL.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'glenbxl.pythonanywhere.com']
 
 
 # Application definition
